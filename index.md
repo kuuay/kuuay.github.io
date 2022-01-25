@@ -1,12 +1,10 @@
-## 欢迎来到我的主页
+## 欢迎来到枯鸢的主页！（这只是个测试版）
 
-You can use the [editor on GitHub](https://github.com/kuuay/kuuay.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+本网站基于github打造的二级静态域名
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 还有很多不完善的地方
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+下面我都懒得改了，你们随便看看
 
 ```markdown
 Syntax highlighted code block
